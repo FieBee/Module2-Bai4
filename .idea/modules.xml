@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai4.iml" filepath="$PROJECT_DIR$/.idea/Bai4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Class-QuadraticEquation/Class-QuadraticEquation.iml" filepath="$PROJECT_DIR$/Class-QuadraticEquation/Class-QuadraticEquation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StopWatch/StopWatch.iml" filepath="$PROJECT_DIR$/StopWatch/StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Th-Rectangle/Th-Rectangle.iml" filepath="$PROJECT_DIR$/Th-Rectangle/Th-Rectangle.iml" />
     </modules>
   </component>
